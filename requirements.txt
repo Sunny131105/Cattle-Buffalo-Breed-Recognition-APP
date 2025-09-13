@@ -1,0 +1,7 @@
+streamlit~=1.49.1
+opencv-python~=4.12.0.88
+numpy~=2.2.6
+fastai~=2.8.4
+protobuf~=6.31.1
+requests~=2.32.4
+aiohttp~=3.12.15
