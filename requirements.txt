@@ -1,5 +1,6 @@
 streamlit~=1.49.1
-opencv-python~=4.12.0.88
+opencv-python-headless==4.10.0.84
+
 numpy~=2.2.6
 fastai~=2.8.4
 protobuf~=6.31.1
